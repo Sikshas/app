@@ -130,11 +130,11 @@ name = "Contact"
 url = "contact"
 weight = 5
 [params]
-address = "9567 Turner Trace Apt. BC C3G8A4"
+address = ""
 author = "Themefisher"
 contact_form_action = "#"
 description = "This is meta description"
-email = "info@educenter.com"
+email = "sikshaspace@gmail.com"
 google_analitycs_id = ""
 logo = "images/logo.png"
 mobile = "+211234565523"
@@ -182,17 +182,9 @@ icon = "ti-facebook"
 link = "#"
 title = "facebook"
 [[params.social]]
-icon = "ti-twitter-alt"
-link = "#"
-title = "twitter"
-[[params.social]]
 icon = "ti-instagram"
 link = "#"
 title = "instagram"
-[[params.social]]
-icon = "ti-github"
-link = "#"
-title = "github"
 [[params.social]]
 icon = "ti-linkedin"
 link = "#"
