@@ -28,4 +28,4 @@ speaker:
 ---
 ### About Event
 
-Undergraduate students are required to develop an academic writing style, which should enable them to analyse, evaluate and structure their responses to their respective subjects. The workshop will be particularly relevant for students looking for a method to write their academic experiences.
+Undergraduate students are required to develop an academic writing style, which should enable them to analyze, evaluate and structure their responses to their respective subjects. The workshop will be particularly relevant for students looking for a method to write their academic experiences.
