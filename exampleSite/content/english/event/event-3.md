@@ -23,6 +23,7 @@ speaker:
 - name: Alfred Jin
   image: images/event-speakers/speaker-4.jpg
   designation: Teacher
+draft: true
 
 ---
 ### About Event
