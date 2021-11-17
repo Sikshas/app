@@ -2,20 +2,13 @@
 title: About Us
 bg_image: images/backgrounds/page-title.jpg
 image: images/about/about-page.jpg
-description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-  tempor incididunt ut labore. dolore magna aliqua. Ut enim ad minim veniam, quis
-  nostrud.
+description: Regarding Sikhsa Space
 
 ---
 ## ABOUT OUR JOURNEY
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore
-et.dolore magna aliqua. Ut enim ad minim veniam, quis nostrud. Lorem ipsum dolor sit amet consectetur,
-adipisicing elit. Saepe ipsa illo quod veritatis, magni debitis fugiat dolore voluptates! Consequatur,
-aliquid. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quaerat perferendis sint optio similique.
-Et amet magni facilis vero corporis quos.
+Sikhsaspace started shaping up when we began teaching students in 1990 for the sheer purpose of “education for everyone”. 
 
-exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit
-in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Lorem ipsum, dolor sit amet consectetur
-adipisicing elit. Ipsum a, facere fugit error accusamus est officiis vero in, nostrum laboriosam corrupti
-explicabo, cumque repudiandae deleniti perspiciatis quae consectetur enim. Laboriosam!
+‘Sikshaspace’ is the SPACE in which we offer college and university students new ideas, perspectives, and novel ways of learning through formal and informal setups. We also make them aware of the career options and the avenues for higher studies available for their background and discipline. This helps them to focus on and prepare for the future and they can transition to work-life smoothly. For example, for students doing graduation in English Honours, we help them by offering both broader and deeper training in their subject and also prepare them for appropriate careers in fields like academics, civil services, journalism, and public relations. 
+
+We aim to achieve this by consolidating the expertise of a range of highly creative and capable academics and other professionals from different fields, who will share their knowledge and expertise with students enrolled with us. Besides, we equip our students with skills that make them job-ready. In the process, we also aim to mitigate the unequal access to educational resources due to a variety of socio-economic reasons.
