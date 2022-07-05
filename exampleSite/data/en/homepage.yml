@@ -4,29 +4,10 @@ slider:
   bg_image: images/banner/banner-1.jpg
   slider_item:
   - title: Your bright future is our mission
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut labore et magna aliqua. Ut enim ad minim veniam, quis nostrud
-      exer
-    animation_in: left
-    animation_out: right
-    button:
-      enable: true
-      label: Apply now
-      link: contact
-  - title: Your bright future is our mission
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut labore et magna aliqua. Ut enim ad minim veniam, quis nostrud
-      exer
-    animation_in: left
-    animation_out: right
-    button:
-      enable: true
-      label: Apply now
-      link: contact
-  - title: Your bright future is our mission
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut labore et magna aliqua. Ut enim ad minim veniam, quis nostrud
-      exer
+    content: We offer young and experienced passionate Indian citizens volunteering
+      opportunities. Inspired and deeply transformed by their own experience, Sikshaspace
+      volunteers seek to inspire and nurture the possibility in every young person,
+      helping them realize the ultimate potential within.
     animation_in: left
     animation_out: right
     button:
