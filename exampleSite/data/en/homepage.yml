@@ -64,10 +64,17 @@ success_story:
   enable: true
   bg_image: images/backgrounds/success-story.jpg
   title: Success Stories
-  content: |-
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat pariatur. Excepteur sint occaecat.
-
-    ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
+  content: "‘Sikshaspace’ is the SPACE in which we offer School, College, and University
+    students new ideas, perspectives, and novel ways of learning through formal and
+    informal setups.\n\nWe also make them aware of the career options and the avenues
+    for higher studies available for their background and discipline. This helps them
+    to focus on and prepare for the future and they can transition to work-life smoothly.\n\nFor
+    example, for students doing graduation in English Honours, we help them by offering
+    both broader and deeper training in their subject and also prepare them for appropriate
+    careers in fields like academics (higher studies in India & Abroad), civil services,
+    journalism, and public relations.\n\nOur success stories include \nK. K. Das College,
+    Kolkata\nGour Mahavidyalaya,Malda\nDR. A.P.J. Abdul Kalam Govt. College, Kolkata\nRishi
+    Bankim Chandra College for Women,Naihati\nMaynaguri College, North Bengal"
   video_link: https://www.youtube.com/watch?v=ResipmZmpDU
 event:
   enable: true
