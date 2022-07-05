@@ -30,8 +30,7 @@ banner_feature:
       different districts of West Bengal and other states.
   - name: Admission Now
     icon: ti-write
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut labore  dolore magna aliqua. Ut enim ad
+    content: Coming Soon
 about:
   enable: true
   title: About Siksha Space
