@@ -9,7 +9,10 @@ slider:
       and informal setups."
     animation_in: left
     animation_out: right
-    button: ''
+    button:
+      label: See our success stories
+      link: ''
+      enable: true
   - title: Your bright future is our mission
     content: We offer young and experienced passionate Indian citizens volunteering
       opportunities. Inspired and deeply transformed by their own experience, Sikshaspace
