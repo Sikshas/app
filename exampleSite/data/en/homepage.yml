@@ -24,8 +24,10 @@ banner_feature:
       tempor incididunt ut labore  dolore magna aliqua. Ut enim ad
   - name: Our Notice Board
     icon: ti-blackboard
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut labore  dolore magna aliqua. Ut enim ad
+    content: Our activities serve as a thriving model for knowledge empowerment and
+      help our students access enjoyable, meaningful, and rewarding ‘SPACE’ so that
+      they can use their skills to benefit both themselves and society throughout
+      the world.
   - name: Our Achievements
     icon: ti-agenda
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
