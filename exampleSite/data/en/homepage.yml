@@ -20,10 +20,7 @@ banner_feature:
   feature_item:
   - name: Our Notice Board
     icon: ti-blackboard
-    content: Our activities serve as a thriving model for knowledge empowerment and
-      help our students access enjoyable, meaningful, and rewarding ‘SPACE’ so that
-      they can use their skills to benefit both themselves and society throughout
-      the world.
+    content: Stay Tuned
   - name: Our Achievements
     icon: ti-agenda
     content: We have conducted Orientation sessions for 700+ college students across
