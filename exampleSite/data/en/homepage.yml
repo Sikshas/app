@@ -3,6 +3,13 @@ slider:
   enable: true
   bg_image: images/banner/banner-1.jpg
   slider_item:
+  - title: What we offer
+    content: "‘Sikshaspace’ is the SPACE in which we offer School, College and University
+      students’ new ideas, perspectives, and novel ways of learning through formal
+      and informal setups."
+    animation_in: left
+    animation_out: right
+    button: ''
   - title: Your bright future is our mission
     content: We offer young and experienced passionate Indian citizens volunteering
       opportunities. Inspired and deeply transformed by their own experience, Sikshaspace
