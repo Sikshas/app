@@ -49,7 +49,7 @@ course:
   enable: false
   title: Our Course
 cta:
-  enable: true
+  enable: false
   subtitle: Click to Join the Advance Workshop
   title: Training In Advannce Networking
   button:
