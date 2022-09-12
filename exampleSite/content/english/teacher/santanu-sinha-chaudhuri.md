@@ -1,10 +1,10 @@
 +++
 bg_image = "images/backgrounds/page-title.jpg"
-bio = "Sri Abir Ganguly, CEO at Genius Consultants Ltd. An IIT alumnus and Management graduate from the Indian Institute of Social Welfare & Business Management with a career spanning over 20 years."
+bio = "He is a Cambridge-certified (CELTA) freelance teacher of English and Business Communication and worked for the British Council Teaching Centre, Kolkata, India. He has conducted numerous workshops for business professionals on diverse topics like Presentation Skills, Negotiations, International English, Business writing, dealing with difficult people, etc. He writes articles and creative non-fiction and those articles have been published in several newspapers and magazines. He also translated Bangla literary fiction into English."
 course = "Computer Science"
-description = "Sri Abir Ganguly - bio"
+description = "Santanu Sinha Chaudhuri - bio"
 draft = true
-image = "/images/image-1.png"
+image = "/images/image-2.png"
 interest = ["Human Computer Interfacing"]
 title = "Santanu Sinha Chaudhuri"
 [[contact]]
@@ -23,4 +23,6 @@ name = "1313 Boulevard Cremazie,Quebec"
 +++
 ### About Me
 
-Sri Abir Ganguly, CEO at Genius Consultants Ltd. An IIT alumnus and Management graduate from the Indian Institute of Social Welfare & Business Management with a career spanning over 20 years.
+He is a Cambridge-certified (CELTA) freelance teacher of English and Business Communication and worked for the British Council Teaching Centre, Kolkata, India. He has conducted numerous workshops for business professionals on diverse topics like Presentation Skills, Negotiations, International English, Business writing, dealing with difficult people, etc.  
+  
+He writes articles and creative non-fiction and those articles have been published in several newspapers and magazines. He also translated Bangla literary fiction into English.
