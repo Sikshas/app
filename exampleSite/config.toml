@@ -3,7 +3,8 @@ disableLanguages = ["Fr"]
 disqusShortname = "educenter"
 paginate = "6"
 summaryLength = "10"
-theme = "educenter-hugo"
+theme = "app"
+themesDir = "../.."
 title = "Siksha Space"
 [Languages.en]
 contentDir = "content/english"
